@@ -1,0 +1,7 @@
+This is yet another fake document.
+
+It contains useful information about how your final letter grade for the course will determined.
+
+Can you open and read it?
+
+HINT: everyone gets a "C".

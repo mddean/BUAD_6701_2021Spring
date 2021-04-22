@@ -1,0 +1,5 @@
+This is a fake document.
+
+It contains junk.
+
+Can you open and read it?
